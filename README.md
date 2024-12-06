@@ -15,12 +15,15 @@ Meu objetivo é melhorar continuamente minhas habilidades, aprender as melhores 
 
 ---
 
-## 🔧 Ferramentas e Tecnologias
+### 🏷️ Tecnologias que Uso
 
-- **Frontend**: React, HTML5, CSS3, Sass, Tailwind CSS
-- **Backend**: Node.js
-- **Banco de Dados**: MongoDB, PostgreSQL, MySQL
-- **Versionamento**: Git, GitHub
+![HTML](https://img.shields.io/badge/HTML-5%20%3C%2F%3E-orange)
+![CSS](https://img.shields.io/badge/CSS-3-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
+![Node.js](https://img.shields.io/badge/Node.js-333333?style=flat&logo=node.js)
+![React](https://img.shields.io/badge/React-18.0-blue?style=flat&logo=react)
+![SQL](https://img.shields.io/badge/SQL-blue?style=flat&logo=postgresql)
+![PHP](https://img.shields.io/badge/PHP-8.0-777BB4?style=flat&logo=php)
 
 ---
 
@@ -36,3 +39,4 @@ Meu objetivo é melhorar continuamente minhas habilidades, aprender as melhores 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=WalliCode&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WalliCode&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
