@@ -9,7 +9,7 @@
 
 ## 👨‍💻 Sobre Mim
 
-Olá! Eu sou o Wallison, um desenvolvedor Full Stack iniciante com paixão por criar aplicações web dinâmicas e escaláveis. Estou em uma jornada de aprendizado constante, explorando tecnologias como **JavaScript/TypeScript**, **React**, **Node.js** e **Python**.
+Olá! Eu sou o Wallison, um desenvolvedor Full Stack iniciante com paixão por criar aplicações web dinâmicas e escaláveis. Estou em uma jornada de aprendizado constante, explorando tecnologias como **JavaScript/TypeScript**, **React**, **Node.js** e **PHP**.
 
 Meu objetivo é melhorar continuamente minhas habilidades, aprender as melhores práticas de desenvolvimento e aplicar essas lições em projetos reais. Estou sempre em busca de novos desafios para expandir meu conhecimento e colaborar com a comunidade de desenvolvedores.
 
