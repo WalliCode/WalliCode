@@ -17,15 +17,15 @@ Meu objetivo é melhorar continuamente minhas habilidades, aprender as melhores 
 
 ### 🏷️ Tecnologias que Uso
 
-![HTML](https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/HTML5_logo.svg/1280px-HTML5_logo.svg.png)
-![CSS](https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg)
-![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)
-![Node.js](https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo_2015.svg)
-![React](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)
-![SQL](https://upload.wikimedia.org/wikipedia/commons/2/29/SQL_icon.svg)
-![PHP](https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg)
-![Git](https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg)
-![TypeScript](https://upload.wikimedia.org/wikipedia/commons/2/2d/TypeScript-logo.svg)
+![HTML5](https://img.shields.io/badge/HTML5-%E2%9C%94-orange?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%E2%9C%94-blue?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%E2%9C%94-yellow?style=flat-square&logo=javascript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%E2%9C%94-339933?style=flat-square&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-%E2%9C%94-61DAFB?style=flat-square&logo=react&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-%E2%9C%94-003B57?style=flat-square&logo=postgresql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%E2%9C%94-777BB4?style=flat-square&logo=php&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%E2%9C%94-F05032?style=flat-square&logo=git&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%E2%9C%94-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ---
 
 ## 📩 Contato
