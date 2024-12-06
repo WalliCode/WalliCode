@@ -42,3 +42,7 @@ Meu objetivo é melhorar continuamente minhas habilidades, aprender as melhores 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WalliCode&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=WalliCode&theme=radical)
+
+## 🎉 Vamos Programar Juntos!
+
+![Vamos codar](https://media.giphy.com/media/1JmBpn4HOhwCK/giphy.gif)
