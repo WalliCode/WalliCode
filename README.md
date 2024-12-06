@@ -1,7 +1,7 @@
 # Wallison - Desenvolvedor Full Stack Iniciante
 
 🔹 **Localização**: Brasil  
-🔹 **Tecnologias**: JavaScript, TypeScript, React, Node.js, Python, HTML, CSS, Git, SQL  
+🔹 **Tecnologias**: JavaScript, TypeScript, React, Node.js, HTML, CSS, Git, SQL  
 🔹 **Interesses**: Desenvolvimento Web, APIs, Open Source, DevOps, Aprendizado contínuo  
 🔹 **Habilidades**: Desenvolvimento Frontend & Backend, Git e versionamento de código, Aprendizado de novas tecnologias
 
@@ -17,14 +17,15 @@ Meu objetivo é melhorar continuamente minhas habilidades, aprender as melhores 
 
 ### 🏷️ Tecnologias que Uso
 
-![HTML](https://img.shields.io/badge/HTML-5%20%3C%2F%3E-orange)
-![CSS](https://img.shields.io/badge/CSS-3-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
-![Node.js](https://img.shields.io/badge/Node.js-333333?style=flat&logo=node.js)
-![React](https://img.shields.io/badge/React-18.0-blue?style=flat&logo=react)
-![SQL](https://img.shields.io/badge/SQL-blue?style=flat&logo=postgresql)
-![PHP](https://img.shields.io/badge/PHP-8.0-777BB4?style=flat&logo=php)
-
+![HTML](https://img.shields.io/badge/HTML-5%20%3C%2F%3E-orange?style=for-the-badge)
+![CSS](https://img.shields.io/badge/CSS-3-blue?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-333333?style=for-the-badge&logo=node.js)
+![React](https://img.shields.io/badge/React-18.0-blue?style=for-the-badge&logo=react)
+![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=postgresql)
+![PHP](https://img.shields.io/badge/PHP-8.0-777BB4?style=for-the-badge&logo=php)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
 ---
 
 ## 📩 Contato
