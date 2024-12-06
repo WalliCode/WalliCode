@@ -29,7 +29,7 @@ Meu objetivo é melhorar continuamente minhas habilidades, aprender as melhores 
 
 ## 📩 Contato
 
-- **Email**: wallisonjuniodias@exemplo.com  
+- **Email**: wallisonjuniodias@outlook.com  
 - **LinkedIn**: [linkedin.com/in/wallison](https://www.linkedin.com/in/wallison)  
 
 ---
