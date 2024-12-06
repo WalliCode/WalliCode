@@ -43,6 +43,6 @@ Meu objetivo é melhorar continuamente minhas habilidades, aprender as melhores 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=WalliCode&theme=radical)
 
-## 🎉 Vamos Programar Juntos!
+## 🎓 Aprendizado e Cursos
 
-![Vamos codar](https://media.giphy.com/media/1JmBpn4HOhwCK/giphy.gif)
+- [Curso de desenvolvimento Full-Stack - Udemy](https://www.udemy.com)
