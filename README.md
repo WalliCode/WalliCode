@@ -33,6 +33,6 @@ Meu objetivo é melhorar continuamente minhas habilidades, aprender as melhores 
 
 ### 📊 Estatísticas do GitHub
 
-[GitHub stats](https://github-readme-stats.vercel.app/api?username=WalliCode&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=WalliCode&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WalliCode&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
