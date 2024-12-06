@@ -17,15 +17,15 @@ Meu objetivo é melhorar continuamente minhas habilidades, aprender as melhores 
 
 ### 🏷️ Tecnologias que Uso
 
-![HTML](https://img.shields.io/badge/HTML-5%20%3C%2F%3E-orange?style=for-the-badge)
-![CSS](https://img.shields.io/badge/CSS-3-blue?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge)
-![Node.js](https://img.shields.io/badge/Node.js-333333?style=for-the-badge&logo=node.js)
-![React](https://img.shields.io/badge/React-18.0-blue?style=for-the-badge&logo=react)
-![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=postgresql)
-![PHP](https://img.shields.io/badge/PHP-8.0-777BB4?style=for-the-badge&logo=php)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
+![HTML](https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/HTML5_logo.svg/1280px-HTML5_logo.svg.png)
+![CSS](https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg)
+![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)
+![Node.js](https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo_2015.svg)
+![React](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)
+![SQL](https://upload.wikimedia.org/wikipedia/commons/2/29/SQL_icon.svg)
+![PHP](https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg)
+![Git](https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg)
+![TypeScript](https://upload.wikimedia.org/wikipedia/commons/2/2d/TypeScript-logo.svg)
 ---
 
 ## 📩 Contato
