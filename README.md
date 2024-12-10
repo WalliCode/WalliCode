@@ -35,6 +35,8 @@ Meu objetivo é melhorar continuamente minhas habilidades, aprender as melhores 
 - **LinkedIn**: [linkedin.com/in/wallison](https://www.linkedin.com/in/wallison)  
 - **YouTube**: [@Dias_Walli](https://www.youtube.com/@Dias_Walli)
 
+[![YouTube Channel](https://img.shields.io/badge/YouTube-%E2%9C%94-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@Dias_Walli)
+
 ---
 
 ### 📊 Estatísticas do GitHub
@@ -43,7 +45,7 @@ Meu objetivo é melhorar continuamente minhas habilidades, aprender as melhores 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WalliCode&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=WalliCode&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=WalliCode&theme=radical&hide_border=true)
 
 ## 🎓 Aprendizado e Cursos
 
