@@ -35,8 +35,6 @@ Meu objetivo é melhorar continuamente minhas habilidades, aprender as melhores 
 - **LinkedIn**: [linkedin.com/in/wallison](https://www.linkedin.com/in/wallison)  
 - **YouTube**: [@Dias_Walli](https://www.youtube.com/@Dias_Walli)
 
-[![YouTube Channel](https://img.shields.io/badge/YouTube-%E2%9C%94-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@Dias_Walli)
-
 ---
 
 ### 📊 Estatísticas do GitHub
