@@ -45,8 +45,6 @@ Meu objetivo é melhorar continuamente minhas habilidades, aprender as melhores 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WalliCode&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=WalliCode&theme=radical&hide_border=true)
-
 ## 🎓 Aprendizado e Cursos
 
 - [Curso de desenvolvimento Full-Stack - Udemy](https://www.udemy.com)
