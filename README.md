@@ -46,3 +46,11 @@ Meu objetivo é melhorar continuamente minhas habilidades, aprender as melhores 
 ## 🎓 Aprendizado e Cursos
 
 - [Curso de desenvolvimento Full-Stack - Udemy](https://www.udemy.com)
+
+- [Curso de Next.js - Udemy](https://www.udemy.com)  
+
+- [Curso de React: Do Zero à Maestria - Udemy](https://www.udemy.com)  
+
+- [Curso de TypeScript - Udemy](https://www.udemy.com)  
+
+- [Curso de Node.js - Udemy](https://www.udemy.com)  
