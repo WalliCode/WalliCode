@@ -26,12 +26,16 @@ Meu objetivo é melhorar continuamente minhas habilidades, aprender as melhores 
 ![PHP](https://img.shields.io/badge/PHP-%E2%9C%94-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%E2%9C%94-F05032?style=flat-square&logo=git&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%E2%9C%94-007ACC?style=flat-square&logo=typescript&logoColor=white)
+
 ---
 
 ## 📩 Contato
 
-- **Email**: wallisonjuniodias@outlook.com  
+- **Email**: [wallisonjuniodias@outlook.com](mailto:wallisonjuniodias@outlook.com)  
 - **LinkedIn**: [linkedin.com/in/wallison](https://www.linkedin.com/in/wallison)  
+- **YouTube**: [@Dias_Walli](https://www.youtube.com/@Dias_Walli)
+
+[![YouTube Channel](https://img.shields.io/badge/YouTube-%E2%9C%94-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@Dias_Walli)
 
 ---
 
