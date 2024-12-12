@@ -33,7 +33,6 @@ Meu objetivo é melhorar continuamente minhas habilidades, aprender as melhores 
 
 - **Email**: [wallisonjuniodias@outlook.com](mailto:wallisonjuniodias@outlook.com)  
 - **LinkedIn**: [linkedin.com/in/wallison](https://www.linkedin.com/in/wallison)  
-- **YouTube**: [@Dias_Walli](https://www.youtube.com/@Dias_Walli)
 
 ---
 
