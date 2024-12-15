@@ -22,7 +22,6 @@ Meu objetivo é melhorar continuamente minhas habilidades, aprender as melhores 
 ![HTML5](https://img.shields.io/badge/HTML5-%E2%9C%94-orange?style=flat-square&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/CSS3-%E2%9C%94-blue?style=flat-square&logo=css3&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-%E2%9C%94-yellow?style=flat-square&logo=javascript&logoColor=white)  
-![Node.js](https://img.shields.io/badge/Node.js-%E2%9C%94-339933?style=flat-square&logo=node.js&logoColor=white)  
 ![React](https://img.shields.io/badge/React-%E2%9C%94-61DAFB?style=flat-square&logo=react&logoColor=black)  
 ![Next.js](https://img.shields.io/badge/Next.js-%E2%9C%94-000000?style=flat-square&logo=next.js&logoColor=white)  
 ![SQL](https://img.shields.io/badge/SQL-%E2%9C%94-003B57?style=flat-square&logo=postgresql&logoColor=white)  
