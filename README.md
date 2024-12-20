@@ -1,4 +1,4 @@
-# Wallison - Desenvolvedor Full Stack Iniciante
+# Wallison - Engenheiro de Software Iniciante
 
 🔹 **Localização**: Brasil  
 🔹 **Tecnologias**: JavaScript, TypeScript, React, Next.js, Node.js, HTML, CSS, Git, SQL  
@@ -9,9 +9,16 @@
 
 ## 👨‍💻 Sobre Mim
 
-Olá! Eu sou o Wallison, um desenvolvedor Full Stack iniciante com paixão por criar aplicações web dinâmicas e escaláveis. Estou em uma jornada de aprendizado constante, explorando tecnologias como **JavaScript/TypeScript**, **React**, **Next.js**, **Node.js** e **PHP**.  
+Olá! Eu sou o Wallison, um engenheiro de software iniciante com paixão por criar aplicações web dinâmicas e escaláveis. Estou em uma jornada de aprendizado constante, explorando tecnologias como **JavaScript/TypeScript**, **React**, **Next.js**, **Node.js** e **PHP**.  
 
 Meu objetivo é melhorar continuamente minhas habilidades, aprender as melhores práticas de desenvolvimento e aplicar essas lições em projetos reais. Estou sempre em busca de novos desafios para expandir meu conhecimento e colaborar com a comunidade de desenvolvedores.  
+
+---
+
+## 🎓 Formação
+
+🔹 **Bacharelado em Engenharia de Software**  
+*Instituição*: Descomplica (Em andamento)  
 
 ---
 
@@ -51,4 +58,4 @@ Meu objetivo é melhorar continuamente minhas habilidades, aprender as melhores 
 - [Curso de Next.js - Udemy](https://www.udemy.com)  
 - [Curso de React: Do Zero à Maestria - Udemy](https://www.udemy.com)  
 - [Curso de TypeScript - Udemy](https://www.udemy.com)  
-- [Curso de Node.js - Udemy](https://www.udemy.com)  
+- [Curso de Node.js - Udemy](https://www.udemy.com)
