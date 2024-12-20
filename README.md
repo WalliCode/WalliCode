@@ -52,7 +52,7 @@ Meu objetivo é melhorar continuamente minhas habilidades, aprender as melhores 
 
 ---
 
-## 🎓 Aprendizado e Cursos
+## 📚 Aprendizado e Cursos
 
 - [Curso de desenvolvimento Full-Stack - Udemy](https://www.udemy.com/course/web-completo/?couponCode=ST19MT121224)  
 - [Curso de Next.js - Udemy](https://www.udemy.com)  
