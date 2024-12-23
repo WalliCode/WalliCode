@@ -58,4 +58,11 @@ Meu objetivo é melhorar continuamente minhas habilidades, aprender as melhores 
 - [Curso de Next.js - Udemy](https://www.udemy.com)  
 - [Curso de React: Do Zero à Maestria - Udemy](https://www.udemy.com)  
 - [Curso de TypeScript - Udemy](https://www.udemy.com)  
-- [Curso de Node.js - Udemy](https://www.udemy.com)
+- [Curso de Node.js - Udemy](https://www.udemy.com)  
+
+---
+
+## 🏅 Certificações
+
+- [Ferramentas e Aplicações de Inteligência Artificial - Descomplica](https://certificados.descomplica.com.br/graduacao/eaea8d40e489c03ab69573a28801097737616e1aabefa8cb665e3058000ff177)  
+- [Introdução ao Desenvolvimento Web - Descomplica](https://certificados.descomplica.com.br/graduacao/57281150383bec73a89fcea7d0a886a7585f4c12bdb88e96e2c162977f56acb9)  
