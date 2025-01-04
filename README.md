@@ -1,4 +1,4 @@
-# Wallison - Engenheiro de Software Iniciante
+# Wallison - Engenheiro de Software (Iniciante)
 
 🔹 **Localização**: Brasil  
 🔹 **Tecnologias**: JavaScript, TypeScript, React, Next.js, Node.js, HTML, CSS, Git, SQL  
