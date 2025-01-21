@@ -63,4 +63,4 @@ Olá! Eu sou o Wallison, um engenheiro de software iniciante com paixão por cri
 
 - [Ferramentas e Aplicações de Inteligência Artificial - Descomplica](https://certificados.descomplica.com.br/graduacao/eaea8d40e489c03ab69573a28801097737616e1aabefa8cb665e3058000ff177)
 - [Introdução ao Desenvolvimento Web - Descomplica](https://certificados.descomplica.com.br/graduacao/57281150383bec73a89fcea7d0a886a7585f4c12bdb88e96e2c162977f56acb9)
-- [Certificado Alura](https://cursos.alura.com.br/certificate/589fa083-9ce6-438b-94ac-af6b3f9fed90?lang=pt)
+- [HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags - Alura](https://cursos.alura.com.br/certificate/589fa083-9ce6-438b-94ac-af6b3f9fed90?lang=pt)
