@@ -1,6 +1,6 @@
 # Wallison - Engenheiro de Software (Iniciante)
 
-🔹 **Localização**: Brasil  
+🔹 **Localização** : Brasil  
 🔹 **Tecnologias**: JavaScript, TypeScript, React, Next.js, Node.js, HTML, CSS, Git, SQL  
 🔹 **Interesses**: Desenvolvimento Web, APIs, Open Source, DevOps, Aprendizado contínuo  
 🔹 **Habilidades**: Desenvolvimento Frontend & Backend, Git e versionamento de código, Aprendizado de novas tecnologias  
@@ -9,16 +9,14 @@
 
 ## 👨‍💻 Sobre Mim
 
-Olá! Eu sou o Wallison, um engenheiro de software iniciante com paixão por criar aplicações web dinâmicas e escaláveis. Estou em uma jornada de aprendizado constante, explorando tecnologias como **JavaScript/TypeScript**, **React**, **Next.js**, **Node.js** e **PHP**.  
-
-Meu objetivo é melhorar continuamente minhas habilidades, aprender as melhores práticas de desenvolvimento e aplicar essas lições em projetos reais. Estou sempre em busca de novos desafios para expandir meu conhecimento e colaborar com a comunidade de desenvolvedores.  
+Olá! Eu sou o Wallison, um engenheiro de software iniciante com paixão por criar aplicações web dinâmicas e escaláveis. Estou em uma jornada de aprendizado constante, explorando tecnologias como **JavaScript/TypeScript**, **React**, **Next.js**, **Node.js** e **PHP**. Meu objetivo é melhorar continuamente minhas habilidades, aprender as melhores práticas de desenvolvimento e aplicar essas lições em projetos reais. Estou sempre em busca de novos desafios para expandir meu conhecimento e colaborar com a comunidade de desenvolvedores.
 
 ---
 
 ## 🎓 Formação
 
 🔹 **Bacharelado em Engenharia de Software**  
-*Instituição*: Descomplica (Em andamento)  
+*Instituição*: Descomplica (Em andamento)
 
 ---
 
@@ -39,30 +37,30 @@ Meu objetivo é melhorar continuamente minhas habilidades, aprender as melhores 
 
 ## 📩 Contato
 
-- **Email**: [wallisonjuniodias@outlook.com](mailto:wallisonjuniodias@outlook.com)  
-- **LinkedIn**: [linkedin.com/in/wallison](https://www.linkedin.com/in/wallison)  
+- **E-mail**: [wallisonjuniodias@outlook.com](mailto:wallisonjuniodias@outlook.com)
+- **LinkedIn**: [linkedin.com/in/wallison](https://www.linkedin.com/in/wallison)
 
 ---
 
 ## 📊 Estatísticas do GitHub
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=WalliCode&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WalliCode&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=WalliCode&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+[![Principais idiomas](https://github-readme-stats.vercel.app/api/top-langs/?username=WalliCode&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
 ## 📚 Aprendizado e Cursos
 
-- [Curso de desenvolvimento Full-Stack - Udemy](https://www.udemy.com/course/web-completo/?couponCode=ST19MT121224)  
-- [Curso de Next.js - Udemy](https://www.udemy.com)  
-- [Curso de React: Do Zero à Maestria - Udemy](https://www.udemy.com)  
-- [Curso de TypeScript - Udemy](https://www.udemy.com)  
-- [Curso de Node.js - Udemy](https://www.udemy.com)  
+- [Curso de desenvolvimento Full-Stack - Udemy](https://www.udemy.com/course/web-completo/?couponCode=ST19MT121224)
+- [Curso de Next.js - Udemy](https://www.udemy.com)
+- [Curso de React: Do Zero à Maestria - Udemy](https://www.udemy.com)
+- [Curso de TypeScript - Udemy](https://www.udemy.com)
+- [Curso de Node.js - Udemy](https://www.udemy.com)
 
 ---
 
 ## 🏅 Certificações
 
-- [Ferramentas e Aplicações de Inteligência Artificial - Descomplica](https://certificados.descomplica.com.br/graduacao/eaea8d40e489c03ab69573a28801097737616e1aabefa8cb665e3058000ff177)  
-- [Introdução ao Desenvolvimento Web - Descomplica](https://certificados.descomplica.com.br/graduacao/57281150383bec73a89fcea7d0a886a7585f4c12bdb88e96e2c162977f56acb9)  
+- [Ferramentas e Aplicações de Inteligência Artificial - Descomplica](https://certificados.descomplica.com.br/graduacao/eaea8d40e489c03ab69573a28801097737616e1aabefa8cb665e3058000ff177)
+- [Introdução ao Desenvolvimento Web - Descomplica](https://certificados.descomplica.com.br/graduacao/57281150383bec73a89fcea7d0a886a7585f4c12bdb88e96e2c162977f56acb9)
+- [Certificado Alura](https://cursos.alura.com.br/certificate/589fa083-9ce6-438b-94ac-af6b3f9fed90?lang=pt)
