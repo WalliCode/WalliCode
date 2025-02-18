@@ -48,11 +48,3 @@ Olá! Eu sou o Wallison, um engenheiro de software iniciante com paixão por cri
 [![Principais idiomas](https://github-readme-stats.vercel.app/api/top-langs/?username=WalliCode&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-
-## 📚 Aprendizado e Cursos
-
-- [Curso de desenvolvimento Full-Stack - Udemy](https://www.udemy.com/course/web-completo/?couponCode=ST19MT121224)
-- [Curso de Next.js - Udemy](https://www.udemy.com)
-- [Curso de React: Do Zero à Maestria - Udemy](https://www.udemy.com)
-- [Curso de TypeScript - Udemy](https://www.udemy.com)
-- [Curso de Node.js - Udemy](https://www.udemy.com)
