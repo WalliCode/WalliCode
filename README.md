@@ -1,6 +1,6 @@
 # Wallison - Engenheiro de Software (Iniciante)
 
-🔹 **Localização** : Brasil  
+🔹 **Localização**: Brasil  
 🔹 **Tecnologias**: JavaScript, TypeScript, React, Next.js, Node.js, HTML, CSS, Git, SQL  
 🔹 **Interesses**: Desenvolvimento Web, APIs, Open Source, DevOps, Aprendizado contínuo  
 🔹 **Habilidades**: Desenvolvimento Frontend & Backend, Git e versionamento de código, Aprendizado de novas tecnologias  
@@ -16,7 +16,10 @@ Olá! Eu sou o Wallison, um engenheiro de software iniciante com paixão por cri
 ## 🎓 Formação
 
 🔹 **Bacharelado em Engenharia de Software**  
-*Instituição*: Descomplica (Em andamento)
+*Instituição*: Descomplica (Em andamento)  
+
+**Progresso no Curso (1º Semestre)**  
+<progress value="12.5" max="100" style="accent-color: #39FF14;"></progress> 12.5% concluído  
 
 ---
 
@@ -56,12 +59,3 @@ Olá! Eu sou o Wallison, um engenheiro de software iniciante com paixão por cri
 - [Curso de React: Do Zero à Maestria - Udemy](https://www.udemy.com)
 - [Curso de TypeScript - Udemy](https://www.udemy.com)
 - [Curso de Node.js - Udemy](https://www.udemy.com)
-
----
-
-## 🏅 Certificações
-
-- [Ferramentas e Aplicações de Inteligência Artificial - Descomplica](https://certificados.descomplica.com.br/graduacao/eaea8d40e489c03ab69573a28801097737616e1aabefa8cb665e3058000ff177)
-- [Introdução ao Desenvolvimento Web - Descomplica](https://certificados.descomplica.com.br/graduacao/57281150383bec73a89fcea7d0a886a7585f4c12bdb88e96e2c162977f56acb9)
-- [HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags - Alura](https://cursos.alura.com.br/certificate/589fa083-9ce6-438b-94ac-af6b3f9fed90?lang=pt)
-- [Introdução à Lógica de Programação - Escola DNC](https://www.linkedin.com/in/wallisonjuniodias/overlay/1737684127147/single-media-viewer/?profileId=ACoAAFGaVTABSkYuM4u84rPkBJvKuSR_E3sBxJI)
