@@ -18,12 +18,6 @@ Olá! Eu sou o Wallison, um engenheiro de software iniciante com paixão por cri
 🔹 **Bacharelado em Engenharia de Software**  
 *Instituição*: Descomplica (Em andamento)  
 
-**Progresso no Curso (1º Semestre)**  
-<div style="background: #e0e0e0; border-radius: 5px; width: 100%; height: 20px;">
-  <div style="background: #39FF14; border-radius: 5px; width: 12.5%; height: 100%;"></div>
-</div>
-12.5% concluído  
-
 ---
 
 ## 🏷️ Tecnologias que Uso
