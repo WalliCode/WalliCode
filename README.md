@@ -19,7 +19,10 @@ Olá! Eu sou o Wallison, um engenheiro de software iniciante com paixão por cri
 *Instituição*: Descomplica (Em andamento)  
 
 **Progresso no Curso (1º Semestre)**  
-<progress value="12.5" max="100" style="accent-color: #39FF14;"></progress> 12.5% concluído  
+<div style="background: #e0e0e0; border-radius: 5px; width: 100%; height: 20px;">
+  <div style="background: #39FF14; border-radius: 5px; width: 12.5%; height: 100%;"></div>
+</div>
+12.5% concluído  
 
 ---
 
