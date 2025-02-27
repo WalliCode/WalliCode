@@ -18,9 +18,6 @@ Olá! Eu sou o Wallison, um engenheiro de software iniciante com paixão por cri
 🔹 **Bacharelado em Engenharia de Software**  
 *Instituição*: Descomplica (Em andamento)  
 
-<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="wallisonjuniodias" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/wallisonjuniodias?trk=profile-badge">Wallison Dias</a></div>
-              
-
 ---
 
 ## 🏷️ Tecnologias que Uso
