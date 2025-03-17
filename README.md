@@ -1,50 +1,36 @@
-# Wallison - Engenheiro de Software (Iniciante)
+# 💻 Wallison - Engenheiro de Software em Formação  
 
 🔹 **Localização**: Brasil  
-🔹 **Tecnologias**: JavaScript, TypeScript, React, Next.js, Node.js, HTML, CSS, Git, SQL  
-🔹 **Interesses**: Desenvolvimento Web, APIs, Open Source, DevOps, Aprendizado contínuo  
-🔹 **Habilidades**: Desenvolvimento Frontend & Backend, Git e versionamento de código, Aprendizado de novas tecnologias  
+🔹 **Áreas de Interesse**: Engenharia de Software, Análise de Dados, Machine Learning, Arquitetura de Sistemas  
+🔹 **Habilidades**: Engenharia de Software, Desenvolvimento de APIs, Otimização de Código, Resolução de Problemas  
 
 ---
 
-## 👨‍💻 Sobre Mim
+## 👨‍💻 Sobre Mim  
 
-Olá! Eu sou o Wallison, um engenheiro de software iniciante com paixão por criar aplicações web dinâmicas e escaláveis. Estou em uma jornada de aprendizado constante, explorando tecnologias como **JavaScript/TypeScript**, **React**, **Next.js**, **Node.js** e **PHP**. Meu objetivo é melhorar continuamente minhas habilidades, aprender as melhores práticas de desenvolvimento e aplicar essas lições em projetos reais. Estou sempre em busca de novos desafios para expandir meu conhecimento e colaborar com a comunidade de desenvolvedores.
+Sou estudante de **Engenharia de Software**, apaixonado por tecnologia e desenvolvimento de sistemas eficientes e escaláveis. Meu objetivo é criar soluções robustas e de alta qualidade, aplicando boas práticas de programação e engenharia de software.  
+
+Além disso, venho explorando **engenharia de dados e machine learning**, buscando integrar esses conhecimentos para desenvolver soluções inovadoras e otimizadas. Trabalho desde a concepção até a implementação e manutenção de sistemas, sempre unindo teoria e prática para entregar resultados sólidos.  
+
+Sou movido por desafios e aprendizado contínuo, sempre em busca de aprimorar minhas habilidades e colaborar em projetos inovadores. Acredito no poder da tecnologia para transformar realidades e meu objetivo é contribuir para soluções que causem impacto positivo. 🌱  
 
 ---
 
-## 🎓 Formação
+## 🎓 Formação  
 
 🔹 **Bacharelado em Engenharia de Software**  
 *Instituição*: Descomplica (Em andamento)  
 
 ---
 
-## 🏷️ Tecnologias que Uso
+## 📩 Contato  
 
-![HTML5](https://img.shields.io/badge/HTML5-%E2%9C%94-orange?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%E2%9C%94-blue?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%E2%9C%94-yellow?style=flat-square&logo=javascript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-%E2%9C%94-339933?style=flat-square&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-%E2%9C%94-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-%E2%9C%94-000000?style=flat-square&logo=next.js&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%E2%9C%94-003B57?style=flat-square&logo=postgresql&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-%E2%9C%94-777BB4?style=flat-square&logo=php&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%E2%9C%94-F05032?style=flat-square&logo=git&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-%E2%9C%94-007ACC?style=flat-square&logo=typescript&logoColor=white)
+📧 **E-mail**: [wallisonjuniodias@outlook.com](mailto:wallisonjuniodias@outlook.com)  
+🔗 **LinkedIn**: [linkedin.com/in/wallison](https://www.linkedin.com/in/wallison)  
 
 ---
 
-## 📩 Contato
+## 📊 Estatísticas do GitHub  
 
-- **E-mail**: [wallisonjuniodias@outlook.com](mailto:wallisonjuniodias@outlook.com)
-- **LinkedIn**: [linkedin.com/in/wallison](https://www.linkedin.com/in/wallison)
-
----
-
-## 📊 Estatísticas do GitHub
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=WalliCode&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
-[![Principais idiomas](https://github-readme-stats.vercel.app/api/top-langs/?username=WalliCode&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
----
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=WalliCode&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)  
+[![Principais linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=WalliCode&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
