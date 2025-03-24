@@ -8,10 +8,15 @@
 
 ## 🚀 Tecnologias & Ferramentas  
 
+### 🎨 Front-End  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+
+### 🖥️ Back-End  
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
+
+### 🏗️ Frameworks & Bibliotecas  
 
 ---
 
@@ -41,5 +46,5 @@ Estou sempre em busca de **novos desafios e aprendizado contínuo**, com o objet
 
 ## 📊 Estatísticas do GitHub  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=WalliCode&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)  
-[![Principais linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=WalliCode&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=WalliCode&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=tokyonight)  
+[![Principais linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=WalliCode&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
