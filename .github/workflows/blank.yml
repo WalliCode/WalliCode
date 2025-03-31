@@ -1,55 +1,45 @@
-name: Generate Snake Animation
+name: Generate and Deploy Snake Animation
 
 on:
-  schedule:
-    - cron: "0 */6 * * *"
   workflow_dispatch:
   push:
-    branches:
-      - main
+    branches: [main]
+  schedule:
+    - cron: "0 16 * * *"  # Runs daily at 16:00 UTC
 
 jobs:
-  generate:
-    runs-on: ubuntu-latest
+  generate-animations:
+    name: Generate Animations
+    runs-on: ubuntu-24.04
     steps:
-      - uses: actions/checkout@v3
-        
-      - name: Generate Light Snake
-        uses: Platane/snk@master
+      - name: Generate Snake Animations
+        uses: Platane/snk/svg-only@v3.3.0
         with:
-          github_user_name: WalliCode
-          svg_out_path: snake.svg
-          
-      - name: Generate Dark Snake
-        uses: Platane/snk@master
+          github_user_name: WalliCode  # Explicitly using your username
+          outputs: |
+            dist/grid-snake.svg
+            dist/grid-snake-dark.svg?palette=github-dark
+            dist/grid-snake-light.svg?palette=github-light
+
+      - name: Upload Snake Animations
+        uses: actions/upload-pages-artifact@v3.0.1
         with:
-          github_user_name: WalliCode
-          svg_out_path: snake-dark.svg
-          color: 'dark'
-          
-      - name: Push to output branch
-        uses: actions/github-script@v6
-        with:
-          script: |
-            const fs = require('fs')
-            const repo = context.repo
-            const lightContent = fs.readFileSync('snake.svg', 'utf8')
-            const darkContent = fs.readFileSync('snake-dark.svg', 'utf8')
-            
-            await github.rest.repos.createOrUpdateFileContents({
-              owner: repo.owner,
-              repo: repo.repo,
-              path: 'github-contribution-grid-snake.svg',
-              message: 'Update snake animation',
-              content: Buffer.from(lightContent).toString('base64'),
-              branch: 'output'
-            })
-            
-            await github.rest.repos.createOrUpdateFileContents({
-              owner: repo.owner,
-              repo: repo.repo,
-              path: 'github-contribution-grid-snake-dark.svg',
-              message: 'Update dark snake animation',
-              content: Buffer.from(darkContent).toString('base64'),
-              branch: 'output'
-            })
+          path: dist
+
+  deploy-pages:
+    name: Deploy Pages
+    needs: generate-animations
+    runs-on: ubuntu-24.04
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    concurrency:
+      group: pages
+      cancel-in-progress: false
+    steps:
+      - name: Deploy Pages
+        id: deployment
+        uses: actions/deploy-pages@v4.0.5
