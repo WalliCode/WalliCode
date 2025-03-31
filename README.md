@@ -1,4 +1,6 @@
-# 💻 Wallison - Software Engineering Student | Estudante de Engenharia de Software  
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=34&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&height=100&lines=Wallison+Dias;Software+Engineering+Student;Estudante+de+Engenharia+de+Software" alt="Typing effect" />
+</h1>
 
 📍 **Location/Localização**: Brazil/Brasil  
 🌟 **Interests/Áreas de Interesse**:  
@@ -47,15 +49,41 @@ Estou sempre em busca de **novos desafios e aprendizado contínuo**, com o objet
   *Institution/Instituição*: Descomplica (In progress/Em andamento)  
 
 ---
+## 📩 Contact | Contato
 
-## 📩 Contact | Contato  
+<div align="center" style="display: flex; justify-content: center; gap: 12px; flex-wrap: wrap; margin: 20px 0;">
 
-📧 **Email/E-mail**: [wallisonjuniodias@outlook.com](mailto:wallisonjuniodias@outlook.com)  
-🔗 **LinkedIn**: [linkedin.com/in/wallison](https://www.linkedin.com/in/wallison)  
+  <!-- Botão de E-mail -->
+  <a href="mailto:wallisonjuniodias@outlook.com" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/>
+  </a>
 
----
+  <!-- Botão do LinkedIn -->
+  <a href="https://linkedin.com/in/wallison" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+  <!-- Botão do GitHub (opcional) -->
+  <a href="https://github.com/WalliCode" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+
+</div>
+
+
 
 ## 📊 GitHub Stats | Estatísticas  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=WalliCode&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=tokyonight)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WalliCode&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin: 20px 0;">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WalliCode&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WalliCode&layout=compact&theme=tokyonight" />
+</div>
+
+<div align="center" style="margin-top: 20px;">
+  <img src="https://komarev.com/ghpvc/?username=WalliCode&color=blue&style=flat-square" alt="Profile views"/>
+</div>
+
+---
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100%"/>
+</p>
