@@ -2,7 +2,7 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 */6 * * *"  # Runs every 6 hours
+    - cron: "0 */6 * * *"
   workflow_dispatch:
   push:
     branches:
@@ -14,12 +14,18 @@ jobs:
     steps:
       - uses: actions/checkout@v3
         
-      - name: Generate Snake
+      - name: Generate Light Snake
         uses: Platane/snk@master
-        id: snake
         with:
           github_user_name: WalliCode
           svg_out_path: snake.svg
+          
+      - name: Generate Dark Snake
+        uses: Platane/snk@master
+        with:
+          github_user_name: WalliCode
+          svg_out_path: snake-dark.svg
+          color: 'dark'
           
       - name: Push to output branch
         uses: actions/github-script@v6
@@ -27,13 +33,23 @@ jobs:
           script: |
             const fs = require('fs')
             const repo = context.repo
-            const snakeContent = fs.readFileSync('snake.svg', 'utf8')
+            const lightContent = fs.readFileSync('snake.svg', 'utf8')
+            const darkContent = fs.readFileSync('snake-dark.svg', 'utf8')
             
             await github.rest.repos.createOrUpdateFileContents({
               owner: repo.owner,
               repo: repo.repo,
               path: 'github-contribution-grid-snake.svg',
               message: 'Update snake animation',
-              content: Buffer.from(snakeContent).toString('base64'),
+              content: Buffer.from(lightContent).toString('base64'),
+              branch: 'output'
+            })
+            
+            await github.rest.repos.createOrUpdateFileContents({
+              owner: repo.owner,
+              repo: repo.repo,
+              path: 'github-contribution-grid-snake-dark.svg',
+              message: 'Update dark snake animation',
+              content: Buffer.from(darkContent).toString('base64'),
               branch: 'output'
             })
