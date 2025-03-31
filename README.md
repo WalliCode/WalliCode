@@ -1,89 +1,55 @@
+<h1 align="center">Wallison Dias</h1>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&width=2000&section=header"/>
+  <strong>Software Engineering Student | Estudante de Engenharia de Software</strong>
 </p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=42&duration=500&pause=500&color=0077E6&center=true&vCenter=true&multiline=true&width=1200&height=250&gradient=true&lines=%E2%94%8C%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%90;|+Wallison+Dias+|;%E2%94%94%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%98;💻+Software+Engineering+Student+;💻+Estudante+de+Engenharia+de+Software" alt="Typing effect in a box" />
-</h1>
-
 <p align="center">
-  🗺️ <strong>Location/Localização</strong>: Brazil/Brasil  
-  <br><br>
-  🌟 <strong>Interests/Áreas de Interesse</strong>:  
-  Software Engineering | Engenharia de Software  
-  System Development | Desenvolvimento de Sistemas  
-  Software Architecture | Arquitetura de Software  
-  <br><br>
-  🔧 <strong>Skills/Habilidades</strong>:  
-  API Development | Desenvolvimento de APIs  
-  Code Optimization | Otimização de Código  
-  Problem Solving | Resolução de Problemas  
-</p>
-
----
-
-## 🚀 Technologies & Tools | Tecnologias & Ferramentas  
-
-### 🎨 **Front-End**  
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>  
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>  
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-</p>
-
-### 🖥️ **Back-End**  
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-</p>
-
----
-
-## 👨‍💻 🇺🇸 About Me
-
-I'm a passionate Software Engineering student focused on building scalable and efficient systems. I apply best programming practices and innovative solutions throughout the process of design, implementation, and maintenance to deliver high-performance and quality results. I'm always seeking new challenges and continuous learning to improve my skills and collaborate on projects that create a positive impact in the world. 🪴
-
-## 👨‍💻 🇧🇷 Sobre Mim  
-
-Sou estudante de Engenharia de Software, apaixonado por construir sistemas escaláveis e eficientes. Aplico as melhores práticas de programação e soluções inovadoras em todas as etapas do processo, desde a concepção até a implementação e manutenção, para entregar resultados de alto desempenho e qualidade. Estou sempre em busca de novos desafios e aprendizado contínuo, com o objetivo de melhorar minhas habilidades e colaborar em projetos que tragam um impacto positivo no mundo. 🌱
- 
-
----
-
-## 🎓 Education | Formação  
-
-🔹 **BSc in Software Engineering | Bacharelado em Engenharia de Software**  
-  *Institution/Instituição*: Descomplica (In progress/Em andamento)  
-
----
-
-## 📩 Contact | Contato
-
-<div align="center" style="display: flex; justify-content: center; gap: 12px; flex-wrap: wrap; margin: 20px 0;">
-  <a href="mailto:wallisonjuniodias@outlook.com" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/>
+  <a href="mailto:wallisonjuniodias@outlook.com">
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/wallison" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://linkedin.com/in/wallison">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-</div>
-
----
-
-## 📊 GitHub Stats | Estatísticas  
-
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; margin: 20px 0;">
-  <div style="flex: 0 0 auto; min-width: 400px; max-width: 100%;">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=WalliCode&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=tokyonight" alt="Estatísticas" style="max-width: 100%; height: auto;"/>
-  </div>
-  <div style="flex: 0 0 auto; min-width: 300px; max-width: 100%;">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WalliCode&layout=compact&theme=tokyonight" alt="Linguagens" style="max-width: 100%; height: auto;"/>
-  </div>
-</div>
-
-## 🐍 My Contributions | Minhas Contribuições
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=WalliCode&theme=github-compact)](https://github.com/WalliCode)
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&width=2000&section=footer"/>
 </p>
+
+##
+
+## About Me | Sobre Mim
+
+🇺🇸 **EN:**  
+I am a dedicated Software Engineering student passionate about building robust and scalable systems. My academic journey has provided me with solid foundations in computer science principles and software development methodologies. I constantly seek to expand my knowledge and apply industry best practices to create efficient, maintainable solutions.
+
+🇧🇷 **PT-BR:**  
+Sou um dedicado estudante de Engenharia de Software apaixonado por construir sistemas robustos e escaláveis. Minha jornada acadêmica me proporcionou bases sólidas em princípios da computação e metodologias de desenvolvimento de software. Busco constantemente expandir meus conhecimentos e aplicar as melhores práticas do mercado para criar soluções eficientes e sustentáveis.
+
+##
+
+## Technologies & Tools | Tecnologias e Ferramentas
+
+### Front-End | Interface
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+
+### Back-End | Servidor
+<p>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+</p>
+
+### Development Tools | Ferramentas
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+##
+
+## Education | Formação
+**BSc in Software Engineering | Bacharelado em Engenharia de Software**  
+🎓 Descomplica | 2025 - Presente (Expected 2028 | Previsão 2028)  
+
+##
+
