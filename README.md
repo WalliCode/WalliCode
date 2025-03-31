@@ -83,7 +83,7 @@ Estou sempre em busca de **novos desafios e aprendizado contínuo**, com o objet
 
 </div>
 
-## 🐍 Minhas Contribuições
+## 🐍 My Contributions | Minhas Contribuições
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=WalliCode&theme=github-compact)](https://github.com/WalliCode)
 
