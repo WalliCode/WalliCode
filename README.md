@@ -3,8 +3,8 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=64&duration=1200&pause=500&color=00FF7F&center=true&vCenter=true&width=1500&height=190&lines=+Wallison+Dias+;💻+Software+Engineering+Student+;+Estudante+de+Engenharia+de+Software+💻&gradient=true&cursor=block" alt="Typing effect" />
-</h1> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=42&duration=500&pause=500&color=0077E6&center=true&vCenter=true&multiline=true&width=1200&height=250&gradient=true&lines=%E2%94%8C%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%90;|+Wallison+Dias+|;%E2%94%94%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%98;💻+Software+Engineering+Student+;💻+Estudante+de+Engenharia+de+Software" alt="Typing effect in a box" />
+</h1>
 
 <p align="center">
   🗺️ <strong>Location/Localização</strong>: Brazil/Brasil  
