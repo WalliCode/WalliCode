@@ -53,3 +53,4 @@ Sou um dedicado estudante de Engenharia de Software apaixonado por construir sis
 
 ##
 
+![Snake animation](https://github.com/WalliCode/WalliCode/blob/output/github-contribution-grid-snake.svg)
