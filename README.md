@@ -78,7 +78,16 @@ Estou sempre em busca de **novos desafios e aprendizado contínuo**, com o objet
   <img src="https://komarev.com/ghpvc/?username=WalliCode&color=blue&style=flat-square" alt="Profile views"/>
 </div>
 
----
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=WalliCode&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+## 🐍 Minhas Contribuições
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=WalliCode&theme=github-compact)](https://github.com/WalliCode)
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100%"/>
 </p>
