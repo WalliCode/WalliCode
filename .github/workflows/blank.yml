@@ -5,7 +5,7 @@ on:
   push:
     branches: [main]
   schedule:
-    - cron: "0 16 * * *"  # Runs daily at 16:00 UTC
+    - cron: "0 16 * * *"
 
 jobs:
   generate-animations:
@@ -15,7 +15,7 @@ jobs:
       - name: Generate Snake Animations
         uses: Platane/snk/svg-only@v3.3.0
         with:
-          github_user_name: WalliCode  # Explicitly using your username
+          github_user_name: WalliCode
           outputs: |
             dist/grid-snake.svg
             dist/grid-snake-dark.svg?palette=github-dark
@@ -33,13 +33,6 @@ jobs:
     permissions:
       pages: write
       id-token: write
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    concurrency:
-      group: pages
-      cancel-in-progress: false
     steps:
       - name: Deploy Pages
-        id: deployment
         uses: actions/deploy-pages@v4.0.5
