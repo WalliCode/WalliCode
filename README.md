@@ -83,12 +83,6 @@ Estou sempre em busca de **novos desafios e aprendizado contínuo**, com o objet
 
 </div>
 
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=WalliCode&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
 ## 🐍 Minhas Contribuições
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=WalliCode&theme=github-compact)](https://github.com/WalliCode)
