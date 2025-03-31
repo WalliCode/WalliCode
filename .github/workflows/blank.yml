@@ -5,13 +5,15 @@ on:
   push:
     branches: [main]
   schedule:
-    - cron: "0 16 * * *"
+    - cron: "0 16 * * *"  # Executa diariamente às 16:00 UTC
 
 jobs:
   generate-animations:
     name: Generate Animations
-    runs-on: ubuntu-24.04
+    runs-on: ubuntu-latest  # Mudei para ubuntu-latest por compatibilidade
     steps:
+      - uses: actions/checkout@v4
+        
       - name: Generate Snake Animations
         uses: Platane/snk/svg-only@v3.3.0
         with:
@@ -21,18 +23,25 @@ jobs:
             dist/grid-snake-dark.svg?palette=github-dark
             dist/grid-snake-light.svg?palette=github-light
 
-      - name: Upload Snake Animations
-        uses: actions/upload-pages-artifact@v3.0.1
+      - name: Upload Artifacts
+        uses: actions/upload-artifact@v3
         with:
-          path: dist
+          name: snake-animations
+          path: dist/
 
-  deploy-pages:
-    name: Deploy Pages
+  deploy:
+    name: Deploy to Pages
     needs: generate-animations
-    runs-on: ubuntu-24.04
+    runs-on: ubuntu-latest
     permissions:
       pages: write
       id-token: write
     steps:
-      - name: Deploy Pages
-        uses: actions/deploy-pages@v4.0.5
+      - name: Download Artifacts
+        uses: actions/download-artifact@v3
+        with:
+          name: snake-animations
+          path: dist/
+
+      - name: Deploy to GitHub Pages
+        uses: actions/deploy-pages@v4
