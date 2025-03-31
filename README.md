@@ -34,9 +34,11 @@
 
 ---
 
-## 👨‍💻 🇺🇸 About Me | Sobre Mim  
+## 👨‍💻 🇺🇸 About Me
 
-I'm a passionate Software Engineering student focused on building scalable and efficient systems. I apply best programming practices and innovative solutions throughout the process of design, implementation, and maintenance to deliver high-performance and quality results. I'm always seeking new challenges and continuous learning to improve my skills and collaborate on projects that create a positive impact in the world. 🌱
+I'm a passionate Software Engineering student focused on building scalable and efficient systems. I apply best programming practices and innovative solutions throughout the process of design, implementation, and maintenance to deliver high-performance and quality results. I'm always seeking new challenges and continuous learning to improve my skills and collaborate on projects that create a positive impact in the world. 🪴
+
+## 👨‍💻 🇧🇷 Sobre Mim  
 
 Sou estudante de Engenharia de Software, apaixonado por construir sistemas escaláveis e eficientes. Aplico as melhores práticas de programação e soluções inovadoras em todas as etapas do processo, desde a concepção até a implementação e manutenção, para entregar resultados de alto desempenho e qualidade. Estou sempre em busca de novos desafios e aprendizado contínuo, com o objetivo de melhorar minhas habilidades e colaborar em projetos que tragam um impacto positivo no mundo. 🌱
  
