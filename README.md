@@ -54,7 +54,7 @@ Sou um dedicado estudante de Engenharia de Software apaixonado por construir sis
 ##
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://wallicode.github.io/dist/grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://wallicode.github.io/dist/grid-snake-light.svg" />
-  <img alt="GitHub contribution animation" src="https://wallicode.github.io/dist/grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://wallicode.github.io/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://wallicode.github.io/snake-light.svg" />
+  <img alt="GitHub contribution animation" src="https://wallicode.github.io/snake.svg" />
 </picture>
