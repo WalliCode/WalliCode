@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=64&duration=1200&pause=500&color=00FF7F&center=true&vCenter=true&width=1500&height=190&lines=+Wallison+Dias+;💻+Software+Engineering+Student+;+Estudante+de+Engenharia+de+Software+💻&gradient=true&cursor=block" alt="Typing effect" />
-</h1>
+</h1> 
 
 <p align="center">
   🗺️ <strong>Location/Localização</strong>: Brazil/Brasil  
