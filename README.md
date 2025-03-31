@@ -53,6 +53,8 @@ Sou um dedicado estudante de Engenharia de Software apaixonado por construir sis
 
 ##
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/WalliCode/WalliCode/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WalliCode/WalliCode/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WalliCode/WalliCode/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution animation" src="https://raw.githubusercontent.com/WalliCode/WalliCode/output/github-contribution-grid-snake.svg" />
+</picture>
