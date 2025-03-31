@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&width=2000&section=header"/>
+</p>
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=64&duration=1200&pause=500&color=00FF7F&center=true&vCenter=true&width=1500&height=190&lines=+Wallison+Dias+;💻+Software+Engineering+Student+;+Estudante+de+Engenharia+de+Software+💻&gradient=true&cursor=block" alt="Typing effect" />
 </h1> 
@@ -81,5 +85,5 @@ Sou estudante de Engenharia de Software, apaixonado por construir sistemas escal
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=WalliCode&theme=github-compact)](https://github.com/WalliCode)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&width=2000&section=footer"/>
 </p>
