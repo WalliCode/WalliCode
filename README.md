@@ -69,13 +69,18 @@ Estou sempre em busca de **novos desafios e aprendizado contínuo**, com o objet
 
 ## 📊 GitHub Stats | Estatísticas  
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin: 20px 0;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WalliCode&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WalliCode&layout=compact&theme=tokyonight" />
-</div>
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; margin: 20px 0;">
 
-<div align="center" style="margin-top: 20px;">
-  <img src="https://komarev.com/ghpvc/?username=WalliCode&color=blue&style=flat-square" alt="Profile views"/>
+  <!-- Estatísticas principais -->
+  <div style="flex: 0 0 auto; min-width: 400px; max-width: 100%;">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=WalliCode&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=tokyonight" alt="Estatísticas" style="max-width: 100%; height: auto;"/>
+  </div>
+
+  <!-- Linguagens mais usadas -->
+  <div style="flex: 0 0 auto; min-width: 300px; max-width: 100%;">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WalliCode&layout=compact&theme=tokyonight" alt="Linguagens" style="max-width: 100%; height: auto;"/>
+  </div>
+
 </div>
 
 <div align="center">
@@ -87,6 +92,10 @@ Estou sempre em busca de **novos desafios e aprendizado contínuo**, com o objet
 ## 🐍 Minhas Contribuições
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=WalliCode&theme=github-compact)](https://github.com/WalliCode)
+
+<div align="center" style="margin-top: 20px;">
+  <img src="https://komarev.com/ghpvc/?username=WalliCode&color=blue&style=flat-square" alt="Profile views"/>
+</div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100%"/>
