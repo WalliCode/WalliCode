@@ -1,20 +1,23 @@
-name: Snake Animation Generator
+name: Snake Animation Deployment
 
 on:
   workflow_dispatch:
   push:
-    branches: [main]
+    branches: [ "main" ]
   schedule:
-    - cron: "0 16 * * *"  # Runs daily at 16:00 UTC
+    - cron: "0 16 * * *"  # Executa diariamente às 16:00 UTC
 
 jobs:
-  generate:
+  generate-snake:
+    name: Generate Snake
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout code
+        uses: actions/checkout@v4
 
-      - name: Generate Snake
+      - name: Generate Snake SVGs
         uses: Platane/snk@v3.3.0
+        id: snake
         with:
           github_user_name: WalliCode
           outputs: |
@@ -22,32 +25,34 @@ jobs:
             snake-dark.svg?palette=github-dark
             snake-light.svg?palette=github-light
 
-      - name: Create dist folder
+      - name: Prepare Artifacts
         run: |
           mkdir -p dist
           mv snake.svg dist/
           mv snake-dark.svg dist/
           mv snake-light.svg dist/
+          ls -la dist/  # Verifica os arquivos
 
-      - name: Upload Artifact
+      - name: Upload Artifacts
         uses: actions/upload-artifact@v4
         with:
-          name: snake-artifacts
+          name: snake-svgs
           path: dist/
           retention-days: 1
 
-  deploy:
-    needs: generate
+  deploy-pages:
+    name: Deploy to GitHub Pages
+    needs: generate-snake
     runs-on: ubuntu-latest
     permissions:
       pages: write
       id-token: write
     steps:
-      - name: Download Artifact
+      - name: Download Artifacts
         uses: actions/download-artifact@v4
         with:
-          name: snake-artifacts
+          name: snake-svgs
           path: dist/
 
-      - name: Deploy to Pages
+      - name: Deploy to GitHub Pages
         uses: actions/deploy-pages@v4
