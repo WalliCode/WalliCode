@@ -78,14 +78,6 @@ Sou estudante de Engenharia de Software, apaixonado por construir sistemas escal
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=WalliCode&theme=github-compact)](https://github.com/WalliCode)
 
----
-
-## 📈 Profile Views | Visualizações de Perfil
-
-<div align="center" style="margin-top: 20px;">
-  <img src="https://komarev.com/ghpvc/?username=WalliCode&color=blue&style=flat-square" alt="Profile views"/>
-</div>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100%"/>
 </p>
