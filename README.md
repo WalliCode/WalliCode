@@ -3,15 +3,6 @@
   <strong>Software Engineering Student | Estudante de Engenharia de Software</strong>
 </p>
 
-<p align="center">
-  <a href="mailto:wallisonjuniodias@outlook.com">
-    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/wallison">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
-
 <h2>About Me | Sobre Mim</h2>
 
 🇺🇸 **EN:**  
@@ -45,5 +36,5 @@ Sou um dedicado estudante de Engenharia de Software apaixonado por construir sis
 
 <p>
   <strong>BSc in Software Engineering | Engenharia de Software </strong><br>
-  <em>Descomplica</em> | Currently enrolled | Cursando
+  <em>College Descomplica | Faculdade Descomplica</em> | Currently enrolled | Cursando
 </p>
